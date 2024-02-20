@@ -14,3 +14,18 @@
 - Функции в языке SQL, Условный оператор, Значения NULL (применительно к функциям)
 - Фраза WHERE, Операторы сравнения, Операторы сопоставления с образцом, Оператор OVERLAPS, Конструкции сравнения строк и массивов
 - Соединения таблиц (JOIN)
+
+# Ресурсы для обучения
+## Книги
+
+- «Изучаем PostgreSQL 10» — С. Джуба, А. Волков: [https://k0d.biz/storage/books/Databases/Postgresql/%D0%98%D0%B7%D1%83%D1%87%D0%B0%D0%B5%D0%BC%20PostgreSQL%2010%20-%202019.pdf]
+  Файлы к книге: [https://dmkpress.com/catalog/computer/databases/978-5-97060-643-8/]
+- «Основы технологий баз данных: учебное пособие» — Б. Новиков, Е. Горшкова, Н. Графеева: [https://postgrespro.ru/education/books/dbtech]
+- «Postgres: первое знакомство» — П. Лузанов, Е. Рогов, И. Лёвшин: [https://postgrespro.ru/education/books/introbook]
+- «PostgreSQL. Основы языка SQL» — Е. Моргунов: [https://postgrespro.ru/education/books/sqlprimer]
+
+## Курсы
+
+- «Руководство по PostgreSQL» metanit: [https://metanit.com/sql/postgresql/]
+- «Симулятор SQL» karpov courses: [https://karpov.courses/simulator-sql]
+- Интерактивный тренажер по SQL: [https://stepik.org/course/63054/syllabus]
